@@ -1,0 +1,782 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-01 23:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: list.py:12
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: list.py:13
+msgid "Albania"
+msgstr "Albania"
+
+#: list.py:14
+msgid "Algeria"
+msgstr "Algieria"
+
+#: list.py:15
+msgid "Andorra"
+msgstr "Andora"
+
+#: list.py:16
+msgid "Angola"
+msgstr "Angola"
+
+#: list.py:17
+msgid "Antigua and Barbuda"
+msgstr "Antigua i Barbuda"
+
+#: list.py:18
+msgid "Argentina"
+msgstr "Argentyna"
+
+#: list.py:19
+msgid "Armenia"
+msgstr "Armenia"
+
+#: list.py:20
+msgid "Australia"
+msgstr "Australia"
+
+#: list.py:21
+msgid "Austria"
+msgstr "Austria"
+
+#: list.py:22
+msgid "Azerbaijan"
+msgstr "Azerbejdżan"
+
+#: list.py:23
+msgid "Bahamas"
+msgstr "Bahamy"
+
+#: list.py:24
+msgid "Bahrain"
+msgstr "Bahrajn"
+
+#: list.py:25
+msgid "Bangladesh"
+msgstr "Bangladesz"
+
+#: list.py:26
+msgid "Barbados"
+msgstr "Barbados"
+
+#: list.py:27
+msgid "Belarus"
+msgstr "Białoruś"
+
+#: list.py:28
+msgid "Belgium"
+msgstr "Belgia"
+
+#: list.py:29
+msgid "Belize"
+msgstr "Belize"
+
+#: list.py:30
+msgid "Benin"
+msgstr "Benin"
+
+#: list.py:31
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: list.py:32
+msgid "Bolivia"
+msgstr "Boliwia"
+
+#: list.py:33
+msgid "Bosnia and Herzegovina"
+msgstr "Bośnia i Hercegowina"
+
+#: list.py:34
+msgid "Botswana"
+msgstr "Botswana"
+
+#: list.py:35
+msgid "Brazil"
+msgstr "Brazylia"
+
+#: list.py:36
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: list.py:37
+msgid "Bulgaria"
+msgstr "Bułgaria"
+
+#: list.py:38
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: list.py:39
+msgid "Burundi"
+msgstr "Burundi"
+
+#: list.py:40
+msgid "Cambodia"
+msgstr "Kambodża"
+
+#: list.py:41
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: list.py:42
+msgid "Canada"
+msgstr "Kanada"
+
+#: list.py:43
+msgid "Cape Verde"
+msgstr "Republika Zielonego Przylądka"
+
+#: list.py:44
+msgid "Central African Republic"
+msgstr "Republika Środkowoafrykańska"
+
+#: list.py:45
+msgid "Chad"
+msgstr "Czad"
+
+#: list.py:46
+msgid "Chile"
+msgstr "Chile"
+
+#: list.py:47
+msgid "China"
+msgstr "Chiny"
+
+#: list.py:48
+msgid "Colombia"
+msgstr "Kolumbia"
+
+#: list.py:49
+msgid "Comoros"
+msgstr "Komory"
+
+#: list.py:50
+msgid "Congo"
+msgstr "Kongo"
+
+#: list.py:51
+msgid "Costa Rica"
+msgstr "Kostaryka"
+
+#: list.py:52
+msgid "Cote D'ivoire"
+msgstr "Wybrzeże Kości Słoniowej"
+
+#: list.py:53
+msgid "Croatia"
+msgstr "Chorwacja"
+
+#: list.py:54
+msgid "Cuba"
+msgstr "Kuba"
+
+#: list.py:55
+msgid "Cyprus"
+msgstr "Cypr"
+
+#: list.py:56
+msgid "Czech Republic"
+msgstr "Czechy"
+
+#: list.py:57
+msgid "Democratic People's Republic of Korea"
+msgstr "Korea Północna"
+
+#: list.py:58
+msgid "Democratic Republic of the Congo"
+msgstr "Demokratyczna Republika Konga"
+
+#: list.py:59
+msgid "Denmark"
+msgstr "Dania"
+
+#: list.py:60
+msgid "Djibouti"
+msgstr "Dżibuti"
+
+#: list.py:61
+msgid "Dominica"
+msgstr "Dominika"
+
+#: list.py:62
+msgid "Dominican Republic"
+msgstr "Dominikana"
+
+#: list.py:63
+msgid "Ecuador"
+msgstr "Ekwador"
+
+#: list.py:64
+msgid "Egypt"
+msgstr "Egipt"
+
+#: list.py:65
+msgid "El Salvador"
+msgstr "Salwador"
+
+#: list.py:66
+msgid "Equatorial Guinea"
+msgstr "Gwinea Równikowa"
+
+#: list.py:67
+msgid "Eritrea"
+msgstr "Erytrea"
+
+#: list.py:68
+msgid "Estonia"
+msgstr "Estonia"
+
+#: list.py:69
+msgid "Ethiopia"
+msgstr "Etiopia"
+
+#: list.py:70
+msgid "Fiji"
+msgstr "Fidżi"
+
+#: list.py:71
+msgid "Finland"
+msgstr "Finlandia"
+
+#: list.py:72
+msgid "France"
+msgstr "Francja"
+
+#: list.py:73
+msgid "Gabon"
+msgstr "Gabon"
+
+#: list.py:74
+msgid "Gambia"
+msgstr "Gambia"
+
+#: list.py:75
+msgid "Georgia"
+msgstr "Gruzja"
+
+#: list.py:76
+msgid "Germany"
+msgstr "Niemcy"
+
+#: list.py:77
+msgid "Ghana"
+msgstr "Ghana"
+
+#: list.py:78
+msgid "Greece"
+msgstr "Grecja"
+
+#: list.py:79
+msgid "Grenada"
+msgstr "Grenada"
+
+#: list.py:80
+msgid "Guatemala"
+msgstr "Gwatemala"
+
+#: list.py:81
+msgid "Guinea"
+msgstr "Gwinea"
+
+#: list.py:82
+msgid "Guinea Bissau"
+msgstr "Gwinea Bissau"
+
+#: list.py:83
+msgid "Guyana"
+msgstr "Gujana"
+
+#: list.py:84
+msgid "Haiti"
+msgstr "Haiti"
+
+#: list.py:85
+msgid "Honduras"
+msgstr "Honduras"
+
+#: list.py:86
+msgid "Hungary"
+msgstr "Węgry"
+
+#: list.py:87
+msgid "Iceland"
+msgstr "Islandia"
+
+#: list.py:88
+msgid "India"
+msgstr "Indie"
+
+#: list.py:89
+msgid "Indonesia"
+msgstr "Indonezja"
+
+#: list.py:90
+msgid "Iran, Islamic Republic of"
+msgstr "Iran"
+
+#: list.py:91
+msgid "Iraq"
+msgstr "Irak"
+
+#: list.py:92
+msgid "Ireland"
+msgstr "Irlandia"
+
+#: list.py:93
+msgid "Israel"
+msgstr "Izrael"
+
+#: list.py:94
+msgid "Italy"
+msgstr "Włochy"
+
+#: list.py:95
+msgid "Jamaica"
+msgstr "Jamajka"
+
+#: list.py:96
+msgid "Japan"
+msgstr "Japonia"
+
+#: list.py:97
+msgid "Jordan"
+msgstr "Jordania"
+
+#: list.py:98
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+#: list.py:99
+msgid "Kenya"
+msgstr "Kenia"
+
+#: list.py:100
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: list.py:101
+msgid "Kuwait"
+msgstr "Kuwejt"
+
+#: list.py:102
+msgid "Kyrgyzstan"
+msgstr "Kirgistan"
+
+#: list.py:103
+msgid "Lao People's Democratic Republic"
+msgstr "Laos"
+
+#: list.py:104
+msgid "Latvia"
+msgstr "Łotwa"
+
+#: list.py:105
+msgid "Lebanon"
+msgstr "Liban"
+
+#: list.py:106
+msgid "Lesotho"
+msgstr "Losotho"
+
+#: list.py:107
+msgid "Liberia"
+msgstr "Liberia"
+
+#: list.py:108
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libia"
+
+#: list.py:109
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: list.py:110
+msgid "Lithuania"
+msgstr "Liwa"
+
+#: list.py:111
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+#: list.py:112
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: list.py:113
+msgid "Malawi"
+msgstr "Malawi"
+
+#: list.py:114
+msgid "Malaysia"
+msgstr "Malezja"
+
+#: list.py:115
+msgid "Maldives"
+msgstr "Malediwy"
+
+#: list.py:116
+msgid "Mali"
+msgstr "Mali"
+
+#: list.py:117
+msgid "Malta"
+msgstr "Malta"
+
+#: list.py:118
+msgid "Marshall Islands"
+msgstr "Wyspy Marshalla"
+
+#: list.py:119
+msgid "Mauritania"
+msgstr "Mauretania"
+
+#: list.py:120
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: list.py:121
+msgid "Mexico"
+msgstr "Meksyk"
+
+#: list.py:122
+msgid "Micronesia, Federated States of"
+msgstr "Mikronezja"
+
+#: list.py:123
+msgid "Monaco"
+msgstr "Monako"
+
+#: list.py:124
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: list.py:125
+msgid "Montenegro"
+msgstr "Czarnogóra"
+
+#: list.py:126
+msgid "Morocco"
+msgstr "Maroko"
+
+#: list.py:127
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: list.py:128
+msgid "Myanmar"
+msgstr "Birma"
+
+#: list.py:129
+msgid "Namibia"
+msgstr "Namibia"
+
+#: list.py:130
+msgid "Nauru"
+msgstr "Nauru"
+
+#: list.py:131
+msgid "Nepal"
+msgstr "Nepal"
+
+#: list.py:132
+msgid "Netherlands"
+msgstr "Niderlandy"
+
+#: list.py:133
+msgid "New Zealand"
+msgstr "Nowa Zelandia"
+
+#: list.py:134
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+#: list.py:135
+msgid "Niger"
+msgstr "Niger"
+
+#: list.py:136
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: list.py:137
+msgid "Norway"
+msgstr "Norwegia"
+
+#: list.py:138
+msgid "Oman"
+msgstr "Oman"
+
+#: list.py:139
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: list.py:140
+msgid "Palau"
+msgstr "Palau"
+
+#: list.py:141
+msgid "Panama"
+msgstr "Panama"
+
+#: list.py:142
+msgid "Papua New Guinea"
+msgstr "Papua Nowa Gwinea"
+
+#: list.py:143
+msgid "Paraguay"
+msgstr "Paragwaj"
+
+#: list.py:144
+msgid "Peru"
+msgstr "Peru"
+
+#: list.py:145
+msgid "Philippines"
+msgstr "Filipiny"
+
+#: list.py:146
+msgid "Poland"
+msgstr "Polska"
+
+#: list.py:147
+msgid "Portugal"
+msgstr "Portugalia"
+
+#: list.py:148
+msgid "Qatar"
+msgstr "Katar"
+
+#: list.py:149
+msgid "Republic of Korea"
+msgstr "Korea Południowa"
+
+#: list.py:150
+msgid "Republic of Moldova"
+msgstr "Mołdawia"
+
+#: list.py:151
+msgid "Romania"
+msgstr "Rumunia"
+
+#: list.py:152
+msgid "Russian Federation"
+msgstr "Rosja"
+
+#: list.py:153
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: list.py:154
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts i Nevis"
+
+#: list.py:155
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: list.py:156
+msgid "Saint Vincent and The Grenadines"
+msgstr "Saint Vincent i Grenadyny"
+
+#: list.py:157
+msgid "Samoa"
+msgstr "Samoa"
+
+#: list.py:158
+msgid "San Marino"
+msgstr "San Marino"
+
+#: list.py:159
+msgid "Sao Tome and Principe"
+msgstr "Wyspy Świętego Tomasza i Książęca"
+
+#: list.py:160
+msgid "Saudi Arabia"
+msgstr "Arabia Saudyjska"
+
+#: list.py:161
+msgid "Senegal"
+msgstr "Senegal"
+
+#: list.py:162
+msgid "Serbia"
+msgstr "Serbia"
+
+#: list.py:163
+msgid "Seychelles"
+msgstr "Seszele"
+
+#: list.py:164
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: list.py:165
+msgid "Singapore"
+msgstr "Singapur"
+
+#: list.py:166
+msgid "Slovakia"
+msgstr "Słowacja"
+
+#: list.py:167
+msgid "Slovenia"
+msgstr "Słowenia"
+
+#: list.py:168
+msgid "Solomon Islands"
+msgstr "Wyspy Salomona"
+
+#: list.py:169
+msgid "Somalia"
+msgstr "Somalia"
+
+#: list.py:170
+msgid "South Africa"
+msgstr "Republika Południowej Afryki"
+
+#: list.py:171
+msgid "Spain"
+msgstr "Hiszpania"
+
+#: list.py:172
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: list.py:173
+msgid "Sudan"
+msgstr "Sudan"
+
+#: list.py:174
+msgid "Suriname"
+msgstr "Surinam"
+
+#: list.py:175
+msgid "Swaziland"
+msgstr "Suazi"
+
+#: list.py:176
+msgid "Sweden"
+msgstr "Szwecja"
+
+#: list.py:177
+msgid "Switzerland"
+msgstr "Szwajcaria"
+
+#: list.py:178
+msgid "Syrian Arab Republic"
+msgstr "Syria"
+
+#: list.py:179
+msgid "Tajikistan"
+msgstr "Tadżykistan"
+
+#: list.py:180
+msgid "Thailand"
+msgstr "Tajlandia"
+
+#: list.py:181
+msgid "The former Yugoslav Republic of Macedonia"
+msgstr "Macedonia"
+
+#: list.py:182
+msgid "Timor-Leste"
+msgstr "Timor Wschodni"
+
+#: list.py:183
+msgid "Togo"
+msgstr "Togo"
+
+#: list.py:184
+msgid "Tonga"
+msgstr "Tonga"
+
+#: list.py:185
+msgid "Trinidad and Tobago"
+msgstr "Trynidad i Tobago"
+
+#: list.py:186
+msgid "Tunisia"
+msgstr "Tunezja"
+
+#: list.py:187
+msgid "Turkey"
+msgstr "Turcja"
+
+#: list.py:188
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: list.py:189
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: list.py:190
+msgid "Uganda"
+msgstr "Uganda"
+
+#: list.py:191
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: list.py:192
+msgid "United Arab Emirates"
+msgstr "Zjednoczone Emiraty Arabskie"
+
+#: list.py:193
+msgid "United Kingdom"
+msgstr "Wielka Brytania"
+
+#: list.py:194
+msgid "United Republic of Tanzania"
+msgstr "Tanzania"
+
+#: list.py:195
+msgid "United States"
+msgstr "Stany Zjednoczone"
+
+#: list.py:196
+msgid "Uruguay"
+msgstr "Urugwaj"
+
+#: list.py:197
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: list.py:198
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: list.py:199
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "Wenezuela"
+
+#: list.py:200
+msgid "Viet Nam"
+msgstr "Wietnam"
+
+#: list.py:201
+msgid "Yemen"
+msgstr "Jemen"
+
+#: list.py:202
+msgid "Zambia"
+msgstr "Zambia"
+
+#: list.py:203
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
