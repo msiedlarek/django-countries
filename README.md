@@ -26,7 +26,7 @@ Usage
 An example is worth a thousand words:
 
     from django.db import models
-    from countries.models import CountryField
+    from countries.fields import CountryField
 
     class Locality(models.Model)
         name = models.CharField("locality name", max_length=50)
