@@ -1,12 +1,15 @@
-from django.db import models
 import locale
-from list import COUNTRIES
+
+from django.db import models
+
+from countries.list import COUNTRIES
+
 
 class CountryField(models.CharField):
     """
-    Model field based on CharField, containing ISO 3166-1 alpha-2 country codes and representing
-    them as uppercase, official English short country names. Defaults `max_length` to 2 and
-    `choices` to country list.
+    Model field based on CharField, containing ISO 3166-1 alpha-2 country codes
+    and representing them as official English short country names.
+    Defaults `max_length` to 2 and `choices` to country list.
     """
 
     def __init__(self, *args, **kwargs):
@@ -20,5 +23,6 @@ class CountryField(models.CharField):
         local_kwargs.update(kwargs)
         super(CountryField, self).__init__(*args, **local_kwargs)
 
-from south_introspection_rules import *
+
+import south_introspection_rules
 

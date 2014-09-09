@@ -1,13 +1,19 @@
+import datetime
+import re
+
 from django.utils import unittest
 from django.db import models
 from django.utils.functional import Promise
-import datetime
-import re
-from list import *
-from fields import *
+
+from countries.list import (
+    COUNTRIES_LAST_UPDATE,
+    COUNTRIES,
+)
+from countries.fields import CountryField
+
 
 class ThreadTestCase(unittest.TestCase):
-    
+
     def setUp(self):
         pass
 

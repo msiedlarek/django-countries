@@ -1,14 +1,20 @@
 # -*- coding: utf-8 -*-
 
-from django.utils.translation import ugettext_lazy as _
 import datetime
 
-# Datetime object representing time of last country list update
+from django.utils.translation import ugettext_lazy as _
+
+
+# Datetime object representing time of last country list update.
 COUNTRIES_LAST_UPDATE = datetime.datetime(2011, 7, 7, 18, 15)
 
-# List of United Nation states (plus Vatican) and its ISO codes
+
+# List of United Nation states (plus Vatican) and their ISO codes.
 COUNTRIES = (
-    # ('<ISO 3166-1 alpha-2 uppercase code>', _("<uppercase official English short name>")),
+    # (
+    #   '<ISO 3166-1 alpha-2 uppercase code>',
+    #   _("<official English short name>")
+    # ),
     ('AF', _("Afghanistan")),
     ('AL', _("Albania")),
     ('DZ', _("Algeria")),
